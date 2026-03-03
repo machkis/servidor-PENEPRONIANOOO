@@ -1,0 +1,22 @@
+{
+  "values": [
+    "supplementaries:way_sign_acacia",
+    "supplementaries:ecologics/way_sign_azalea",
+    "supplementaries:way_sign_bamboo",
+    "supplementaries:way_sign_birch",
+    "supplementaries:way_sign_cherry",
+    "supplementaries:ecologics/way_sign_coconut",
+    "supplementaries:way_sign_crimson",
+    "supplementaries:vinery/way_sign_dark_cherry",
+    "supplementaries:way_sign_dark_oak",
+    "supplementaries:ecologics/way_sign_flowering_azalea",
+    "supplementaries:way_sign_jungle",
+    "supplementaries:way_sign_mangrove",
+    "supplementaries:way_sign_oak",
+    "supplementaries:way_sign_pale_oak",
+    "supplementaries:meadow/way_sign_pine",
+    "supplementaries:way_sign_spruce",
+    "supplementaries:ecologics/way_sign_walnut",
+    "supplementaries:way_sign_warped"
+  ]
+}

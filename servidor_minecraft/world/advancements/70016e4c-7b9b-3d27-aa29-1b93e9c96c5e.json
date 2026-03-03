@@ -1,0 +1,166 @@
+{
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2026-03-03 07:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_the_recipe": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/campfire": {
+    "criteria": {
+      "has_coal": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "wild_strawberry": "2026-03-03 07:21:41 +0000",
+      "oat": "2026-03-03 07:21:41 +0000",
+      "onion": "2026-03-03 07:21:41 +0000",
+      "corn": "2026-03-03 07:21:41 +0000",
+      "wild_ribwort": "2026-03-03 07:21:41 +0000",
+      "wild_corn": "2026-03-03 07:21:41 +0000",
+      "strawberry": "2026-03-03 07:21:41 +0000",
+      "wild_nettle": "2026-03-03 07:21:41 +0000",
+      "barley": "2026-03-03 07:21:41 +0000",
+      "tomato": "2026-03-03 07:21:41 +0000",
+      "lettuce": "2026-03-03 07:21:41 +0000",
+      "wild_tomatoes": "2026-03-03 07:21:41 +0000",
+      "wild_lettuce": "2026-03-03 07:21:41 +0000",
+      "oat_seeds": "2026-03-03 07:21:41 +0000",
+      "strawberry_seeds": "2026-03-03 07:21:41 +0000",
+      "tomato_seeds": "2026-03-03 07:21:41 +0000",
+      "barley_seeds": "2026-03-03 07:21:41 +0000",
+      "lettuce_seeds": "2026-03-03 07:21:41 +0000",
+      "kernels": "2026-03-03 07:21:41 +0000",
+      "wild_barley": "2026-03-03 07:21:41 +0000",
+      "wild_onion": "2026-03-03 07:21:41 +0000",
+      "wild_oat": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_lattice": {
+    "criteria": {
+      "has_coal": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-03-03 07:21:42 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "genshinstrument:genshin_instruments/root": {
+    "criteria": {
+      "has_instruments": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2026-03-03 07:28:42 +0000",
+      "minecraft:cherry_grove": "2026-03-03 07:28:44 +0000",
+      "minecraft:river": "2026-03-03 07:29:21 +0000",
+      "minecraft:savanna": "2026-03-03 07:21:42 +0000",
+      "minecraft:plains": "2026-03-03 07:22:16 +0000"
+    },
+    "done": false
+  },
+  "vinery:recipes/dark_cherry_planks": {
+    "criteria": {
+      "has_cherry_logs": "2026-03-03 07:21:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
