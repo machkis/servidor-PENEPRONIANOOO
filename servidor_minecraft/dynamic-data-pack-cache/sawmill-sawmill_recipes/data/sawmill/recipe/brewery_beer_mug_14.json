@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
+  "result": {
+    "id": "brewery:beer_mug",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

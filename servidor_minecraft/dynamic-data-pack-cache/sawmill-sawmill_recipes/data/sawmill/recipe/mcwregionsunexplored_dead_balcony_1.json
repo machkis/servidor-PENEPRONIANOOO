@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:dead_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:dead_balcony",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:kapok_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:kapok_plank_parapet",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

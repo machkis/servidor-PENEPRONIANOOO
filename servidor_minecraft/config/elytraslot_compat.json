@@ -1,0 +1,9 @@
+{
+  "compatList": {
+    "netherite_ext:netherite_elytra": "netherite_ext:textures/entity/netherite_elytra.png",
+    "netherite_plated_elytra:netherite_elytra": "netherite_plated_elytra:textures/item/netherite_elytra_model.png",
+    "reimaginingpotatoes:poisonous_polytra": "reimaginingpotatoes:textures/entity/poisonous_polytra.png"
+  },
+  "enableArmorValue": true,
+  "enableAnotherSlot": true
+}

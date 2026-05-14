@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:magnolia_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:magnolia_louvered_shutter",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

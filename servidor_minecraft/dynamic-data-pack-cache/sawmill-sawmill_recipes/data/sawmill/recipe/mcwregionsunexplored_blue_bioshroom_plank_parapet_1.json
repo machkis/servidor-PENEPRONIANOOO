@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:blue_bioshroom_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:blue_bioshroom_plank_parapet",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

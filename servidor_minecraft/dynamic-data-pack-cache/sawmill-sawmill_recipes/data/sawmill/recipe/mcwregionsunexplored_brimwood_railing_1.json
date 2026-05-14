@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:brimwood_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:brimwood_railing",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

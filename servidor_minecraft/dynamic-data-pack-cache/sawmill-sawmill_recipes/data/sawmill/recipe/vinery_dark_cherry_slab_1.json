@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "vinery:dark_cherry_planks"
+  },
+  "result": {
+    "id": "vinery:dark_cherry_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

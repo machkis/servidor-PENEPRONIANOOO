@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "regions_unexplored:larch_log"
+    },
+    {
+      "item": "regions_unexplored:larch_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_larch_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_larch_wood"
+    }
+  ],
+  "result": {
+    "id": "mcwregionsunexplored:larch_plank_parapet",
+    "count": 7
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "regions_unexplored:willow_log"
+    },
+    {
+      "item": "regions_unexplored:willow_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_willow_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_willow_wood"
+    }
+  ],
+  "result": {
+    "id": "mcwregionsunexplored:willow_log_bridge_middle",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

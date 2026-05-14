@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:socotra_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:socotra_log_bridge_stair",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

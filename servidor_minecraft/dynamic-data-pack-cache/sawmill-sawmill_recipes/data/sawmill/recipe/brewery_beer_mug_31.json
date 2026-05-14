@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:socotra_planks"
+  },
+  "result": {
+    "id": "brewery:beer_mug",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_block"
+  },
+  "result": {
+    "id": "brewery:beer_mug",
+    "count": 5
+  },
+  "type": "sawmill:woodcutting"
+}

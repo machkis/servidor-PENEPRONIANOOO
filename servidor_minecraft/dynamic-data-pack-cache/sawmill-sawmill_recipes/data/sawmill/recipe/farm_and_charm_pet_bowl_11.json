@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:dark_oak_planks"
+  },
+  "result": {
+    "id": "farm_and_charm:pet_bowl",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

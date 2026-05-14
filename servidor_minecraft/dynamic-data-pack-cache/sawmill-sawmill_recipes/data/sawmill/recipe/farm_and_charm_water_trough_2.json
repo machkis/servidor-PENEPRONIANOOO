@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:oak_log"
+    },
+    {
+      "item": "minecraft:oak_wood"
+    },
+    {
+      "item": "minecraft:stripped_oak_log"
+    },
+    {
+      "item": "minecraft:stripped_oak_wood"
+    }
+  ],
+  "result": {
+    "id": "farm_and_charm:water_trough",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

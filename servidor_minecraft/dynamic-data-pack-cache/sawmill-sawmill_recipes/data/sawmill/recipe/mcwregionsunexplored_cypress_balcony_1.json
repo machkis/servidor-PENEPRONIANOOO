@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:cypress_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:cypress_balcony",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

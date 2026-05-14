@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "cataclysm:chorus_planks"
+  },
+  "result": {
+    "id": "brewery:beer_mug",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

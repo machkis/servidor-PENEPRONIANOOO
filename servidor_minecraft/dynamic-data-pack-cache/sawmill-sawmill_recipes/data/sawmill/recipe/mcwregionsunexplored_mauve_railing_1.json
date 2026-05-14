@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:mauve_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:mauve_railing",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

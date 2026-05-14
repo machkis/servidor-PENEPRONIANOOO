@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "regions_unexplored:yellow_bioshroom_stem"
+    },
+    {
+      "item": "regions_unexplored:yellow_bioshroom_hyphae"
+    },
+    {
+      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
+    },
+    {
+      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
+    }
+  ],
+  "result": {
+    "id": "farm_and_charm:silo_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

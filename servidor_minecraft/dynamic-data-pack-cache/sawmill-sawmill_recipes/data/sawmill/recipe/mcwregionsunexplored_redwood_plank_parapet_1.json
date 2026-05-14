@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:redwood_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:redwood_plank_parapet",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

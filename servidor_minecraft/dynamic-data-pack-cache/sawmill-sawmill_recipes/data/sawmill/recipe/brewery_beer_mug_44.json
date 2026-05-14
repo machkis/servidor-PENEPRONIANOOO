@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
+  "result": {
+    "id": "brewery:beer_mug",
+    "count": 5
+  },
+  "type": "sawmill:woodcutting"
+}

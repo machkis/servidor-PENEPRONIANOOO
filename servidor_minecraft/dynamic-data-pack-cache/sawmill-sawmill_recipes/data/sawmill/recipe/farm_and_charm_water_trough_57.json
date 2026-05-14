@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:joshua_planks"
+  },
+  "result": {
+    "id": "farm_and_charm:water_trough",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

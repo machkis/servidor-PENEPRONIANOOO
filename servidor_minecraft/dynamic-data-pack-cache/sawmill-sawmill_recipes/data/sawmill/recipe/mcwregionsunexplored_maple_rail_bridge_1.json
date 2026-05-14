@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:maple_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:maple_rail_bridge",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

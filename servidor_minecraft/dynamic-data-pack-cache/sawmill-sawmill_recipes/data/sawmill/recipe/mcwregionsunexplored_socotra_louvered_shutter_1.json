@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:socotra_planks"
+  },
+  "result": {
+    "id": "mcwregionsunexplored:socotra_louvered_shutter",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}
